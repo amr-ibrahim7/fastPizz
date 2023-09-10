@@ -32,12 +32,12 @@ A React application that lets users browse a pizza menu and place orders.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/0d5ee91d-ff07-4ffc-aa56-94bdaa9ce181)
+![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/8d0bc37e-c03b-44e6-a1ca-701083a72167)
 
-![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/d8ec7d3a-3cd1-46f9-b3fa-a10ec41c73e8)
+![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/708e07ee-c6da-4000-954d-f12d9946b305)
 
-![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/64ac1f2b-3641-497f-a412-f0ffef1d9fe9)
+![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/6a3e76b5-9bce-4f94-a435-9dee066daaf0)
 
-![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/014e719e-2b64-400d-b140-727042f73620)
+![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/c1919ea4-8f1e-4f3d-ae08-8a7b645c779b)
 
-![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/72252922-5d3e-4b6f-b63e-436fcb6a9e7e)
+![App Screenshot](https://github.com/amr-ibrahim7/fastPizz/assets/109660214/b3a47310-50a8-4a74-b3b0-10ba855e09a2)
